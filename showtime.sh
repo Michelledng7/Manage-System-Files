@@ -7,6 +7,6 @@ showuptime(){
 This is michelle has been up for ${up}
 It has been running since ${since}
 ------
-:EOF
+EOF
 }
 showuptime 
